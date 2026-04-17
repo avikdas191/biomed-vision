@@ -1,1 +1,0 @@
-Introduction to the bio-medical images like microscopy, x-ray, CT and MRI images. Image formats which are used in medical fields such as DICOM and NIFTI. Here I tried to analyse a basic DICOM and NIFI file formatted images.
